@@ -1,0 +1,10 @@
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\bin\Debug\StegoSystem.exe.config
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\bin\Debug\StegoSystem.exe
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\bin\Debug\StegoSystem.pdb
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.csprojAssemblyReference.cache
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.Form1.resources
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.Properties.Resources.resources
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.csproj.GenerateResource.cache
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.csproj.CoreCompileInputs.cache
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.exe
+C:\Users\megas\source\repos\StegoSystem\StegoSystem\obj\Debug\StegoSystem.pdb
